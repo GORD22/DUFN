@@ -1,0 +1,30 @@
+body {
+  background-color: #f6f2f2;
+}
+
+.App {
+  text-align: center;
+}
+
+.btn__start {
+  display: inline-block;
+  vertical-align: top;
+  margin: 30px 0;
+  padding: 15px 60px;
+
+  width: fit-content;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #ff2d2d;
+
+  font-family: inherit;
+  font-size: 18px;
+  color: #fff;
+  font-weight: 700;
+  text-decoration: none;
+  text-align: center;
+}
+
+.count__delete {
+  display: block;
+}
